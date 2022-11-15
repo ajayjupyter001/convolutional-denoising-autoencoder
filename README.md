@@ -34,8 +34,8 @@ Display the Original, Noisy and Reconstructed Image.
 
 ## PROGRAM
 ```
-Developed by: Sri hari krishnan R
-Reg No: 212219040150
+Developed by: Ajay A
+Reg No: 212219040006
 ```
 ```python
 from tensorflow import keras
